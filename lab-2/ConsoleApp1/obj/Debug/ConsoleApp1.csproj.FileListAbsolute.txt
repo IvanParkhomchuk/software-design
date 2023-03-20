@@ -1,0 +1,8 @@
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\second-course\second-course-2\software-design\lab-2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

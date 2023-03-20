@@ -1,0 +1,8 @@
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\obj\Debug\Factory-method.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\obj\Debug\Factory-method.csproj.SuggestedBindingRedirects.cache
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\obj\Debug\Factory-method.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\bin\Debug\Factory-method.exe.config
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\bin\Debug\Factory-method.exe
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\bin\Debug\Factory-method.pdb
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\obj\Debug\Factory-method.exe
+D:\second-course\second-course-2\software-design\lab-3\Factory-method\obj\Debug\Factory-method.pdb

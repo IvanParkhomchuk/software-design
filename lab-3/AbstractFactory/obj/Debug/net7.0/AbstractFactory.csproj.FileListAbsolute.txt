@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-3\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

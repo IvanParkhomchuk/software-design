@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-3\Singleton\bin\Debug\net7.0\Singleton.exe
+D:\second-course\second-course-2\software-design\lab-3\Singleton\bin\Debug\net7.0\Singleton.deps.json
+D:\second-course\second-course-2\software-design\lab-3\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-3\Singleton\bin\Debug\net7.0\Singleton.dll
+D:\second-course\second-course-2\software-design\lab-3\Singleton\bin\Debug\net7.0\Singleton.pdb
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.dll
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.pdb
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-3\Singleton\obj\Debug\net7.0\ref\Singleton.dll

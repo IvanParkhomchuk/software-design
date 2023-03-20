@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-3\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll

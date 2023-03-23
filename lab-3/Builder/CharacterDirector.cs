@@ -8,34 +8,22 @@ namespace Builder
 {
     public class CharacterDirector
     {
-        private ICharacterBuilder _heroBuilder;
-        private ICharacterBuilder _enemyBuilder;
+        private ICharacterBuilder _characterBuilder;
 
-        public CharacterDirector SetHeroBuilder(HeroBuilder heroBuilder)
+        public CharacterDirector SetCharacterBuilder(ICharacterBuilder characterBuilder)
         {
-            this._heroBuilder = heroBuilder;
+            this._characterBuilder = characterBuilder;
             return this;
         }
 
-        public CharacterDirector SetEnemyBuilder(EnemyBuilder enemyBuilder)
+        public CharacterDirector(ICharacterBuilder characterBuilder)
         {
-            this._enemyBuilder = enemyBuilder;
-            return this;
-        }
-
-        public CharacterDirector(HeroBuilder heroBuilder)
-        {
-            this._heroBuilder = heroBuilder;
-        }
-
-        public CharacterDirector(EnemyBuilder enemyBuilder)
-        {
-            this._enemyBuilder = enemyBuilder;
+            this._characterBuilder = characterBuilder;
         }
 
         public Character GetNamelessCharacter()
         {
-            return this._heroBuilder
+            return this._characterBuilder
                 .SetName("Nameless")
                 .SetFaction("New Camp")
                 .SetGuild("Mercenary")
@@ -47,7 +35,7 @@ namespace Builder
 
         public Character GetGomezCharacter()
         {
-            return this._enemyBuilder
+            return this._characterBuilder
                 .SetName("Gomez")
                 .SetFaction("Old Camp")
                 .SetGuild("Ore Baron")

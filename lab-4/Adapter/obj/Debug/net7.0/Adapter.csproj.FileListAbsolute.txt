@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-4\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\second-course\second-course-2\software-design\lab-4\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\second-course\second-course-2\software-design\lab-4\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-4\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\second-course\second-course-2\software-design\lab-4\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-4\Adapter\obj\Debug\net7.0\ref\Adapter.dll

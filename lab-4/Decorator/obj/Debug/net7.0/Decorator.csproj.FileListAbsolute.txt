@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Decorator\bin\Debug\net7.0\Decorator.exe
+D:\second-course\second-course-2\software-design\lab-4\Decorator\bin\Debug\net7.0\Decorator.deps.json
+D:\second-course\second-course-2\software-design\lab-4\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-4\Decorator\bin\Debug\net7.0\Decorator.dll
+D:\second-course\second-course-2\software-design\lab-4\Decorator\bin\Debug\net7.0\Decorator.pdb
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.dll
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.pdb
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-4\Decorator\obj\Debug\net7.0\ref\Decorator.dll

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{FA503D63-63E1-4122-B006-E8B0447E7410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{FA503D63-63E1-4122-B006-E8B0447E7410}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{C5B317FE-2491-48D9-85F9-D2ABB281C89B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FA503D63-63E1-4122-B006-E8B0447E7410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA503D63-63E1-4122-B006-E8B0447E7410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA503D63-63E1-4122-B006-E8B0447E7410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B317FE-2491-48D9-85F9-D2ABB281C89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B317FE-2491-48D9-85F9-D2ABB281C89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B317FE-2491-48D9-85F9-D2ABB281C89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B317FE-2491-48D9-85F9-D2ABB281C89B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-4\Facade\bin\Debug\net7.0\Facade.exe
+D:\second-course\second-course-2\software-design\lab-4\Facade\bin\Debug\net7.0\Facade.deps.json
+D:\second-course\second-course-2\software-design\lab-4\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-4\Facade\bin\Debug\net7.0\Facade.dll
+D:\second-course\second-course-2\software-design\lab-4\Facade\bin\Debug\net7.0\Facade.pdb
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.dll
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\refint\Facade.dll
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.pdb
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-4\Facade\obj\Debug\net7.0\ref\Facade.dll

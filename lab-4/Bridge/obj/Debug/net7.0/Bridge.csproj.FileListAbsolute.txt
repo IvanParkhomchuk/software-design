@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-4\Bridge\bin\Debug\net7.0\Bridge.exe
+D:\second-course\second-course-2\software-design\lab-4\Bridge\bin\Debug\net7.0\Bridge.deps.json
+D:\second-course\second-course-2\software-design\lab-4\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-4\Bridge\bin\Debug\net7.0\Bridge.dll
+D:\second-course\second-course-2\software-design\lab-4\Bridge\bin\Debug\net7.0\Bridge.pdb
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.dll
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.pdb
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-4\Bridge\obj\Debug\net7.0\ref\Bridge.dll

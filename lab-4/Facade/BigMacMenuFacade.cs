@@ -29,13 +29,13 @@ namespace Facade
 
         public void CreateMenu()
         {
-            this._bigMac.Add();
-            this._fries.Add();
-            this._nuggets.Add();
-            this._cola.Add();
-            this._packaging.Add();
-            this._napkins.Add();
-            this._price.Add();
+            Console.WriteLine(this._bigMac.Add());
+            Console.WriteLine(this._fries.Add());
+            Console.WriteLine(this._nuggets.Add());
+            Console.WriteLine(this._cola.Add());
+            Console.WriteLine(this._packaging.Add());
+            Console.WriteLine(this._napkins.Add());
+            Console.WriteLine(this._price.Add());
         }
     }
 }

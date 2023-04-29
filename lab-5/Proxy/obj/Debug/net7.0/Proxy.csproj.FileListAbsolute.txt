@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-5\Proxy\bin\Debug\net7.0\Proxy.exe
+D:\second-course\second-course-2\software-design\lab-5\Proxy\bin\Debug\net7.0\Proxy.deps.json
+D:\second-course\second-course-2\software-design\lab-5\Proxy\bin\Debug\net7.0\Proxy.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-5\Proxy\bin\Debug\net7.0\Proxy.dll
+D:\second-course\second-course-2\software-design\lab-5\Proxy\bin\Debug\net7.0\Proxy.pdb
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.dll
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\refint\Proxy.dll
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.pdb
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\Proxy.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-5\Proxy\obj\Debug\net7.0\ref\Proxy.dll

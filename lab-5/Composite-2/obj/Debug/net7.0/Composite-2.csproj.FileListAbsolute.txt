@@ -1,0 +1,15 @@
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\bin\Debug\net7.0\Composite-2.exe
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\bin\Debug\net7.0\Composite-2.deps.json
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\bin\Debug\net7.0\Composite-2.runtimeconfig.json
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\bin\Debug\net7.0\Composite-2.dll
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\bin\Debug\net7.0\Composite-2.pdb
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.csproj.AssemblyReference.cache
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.AssemblyInfoInputs.cache
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.AssemblyInfo.cs
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.csproj.CoreCompileInputs.cache
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.dll
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\refint\Composite-2.dll
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.pdb
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\Composite-2.genruntimeconfig.cache
+D:\second-course\second-course-2\software-design\lab-5\Composite-2\obj\Debug\net7.0\ref\Composite-2.dll

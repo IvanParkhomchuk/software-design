@@ -11,7 +11,8 @@ try
 {
     ISmartTextReader textReaderLocker = new SmartTextReaderLocker(reader, "restricted_file");
     textReaderLocker.ReadFile("restricted_file.txt");
-} catch (Exception e)
+}
+catch (Exception e)
 {
     Console.WriteLine("Could not process a request");
     Console.WriteLine(e.Message);

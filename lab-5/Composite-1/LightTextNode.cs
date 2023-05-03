@@ -15,19 +15,19 @@ namespace Composite_1
             this._text = text;
         }
 
-        public override LightNode Clone()
+        public void OuterHTML()
+        {
+            Console.WriteLine(this._text);
+        }
+
+        public void InnerHTML()
+        {
+            Console.WriteLine(this._text);
+        }
+
+        public LightNode Clone()
         {
             return new LightTextNode(this._text);
-        }
-
-        public override string OuterHTML()
-        {
-            return _text;
-        }
-
-        public override string InnerHTML()
-        {
-            return "";
         }
     }
 }

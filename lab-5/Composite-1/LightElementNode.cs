@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
-using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,42 +10,30 @@ namespace Composite_1
     internal class LightElementNode : LightNode
     {
         private string _tagName;
-        private string _viewType;
-        private bool _isCloseType;
-        private List<string> _classes;
-        private List<LightNode> _children;
+        private string _viewType; // block or row
+        private bool _isDoubleTag; // <h1></h1> or <img/>
+        private List<string> _cssClasses;
+        private List<LightNode> _children = new List<LightNode>();
 
-        public LightElementNode(string tag, string viewType, bool isClose, List<string> classes)
+        public LightElementNode(string tagName, string viewType, bool isDoubleTag, List<string> cssClasses)
         {
-            this._tagName = tag;
+            this._tagName = tagName;
             this._viewType = viewType;
-            this._isCloseType = isClose;
-            this._classes = classes;
-            this._children = new List<LightNode>();
+            this._isDoubleTag = isDoubleTag;
+            this._cssClasses = cssClasses;
         }
 
-        public override LightNode Clone()
-        {
-            LightElementNode clonedNode = new LightElementNode(this._tagName, this._viewType, this._isCloseType, this._classes);
-            foreach (LightNode child in this._children)
-            {
-                clonedNode.AppendChild(child.Clone());
-            }
-            return clonedNode;
-        }
-
-
-        public override string OuterHTML()
+        public void OuterHTML()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.Append("<").Append(_tagName);
 
-            if (_classes != null && _classes.Count > 0)
+            if (_cssClasses != null && _cssClasses.Count > 0)
             {
                 sb.Append(" class=\"");
 
-                foreach (string cls in _classes)
+                foreach (string cls in _cssClasses)
                 {
                     sb.Append(cls).Append(" ");
                 }
@@ -54,55 +42,68 @@ namespace Composite_1
                 sb.Append("\"");
             }
 
-            if (_isCloseType)
-            { 
+            if (this._isDoubleTag)
+            {
                 sb.Append(">");
-                sb.Append("\n" + InnerHTML() + "\n");
-                sb.Append("</").Append(_tagName).Append(">");
-            } else {
+                Console.WriteLine(sb);
+                this.InnerHTML();
+                Console.WriteLine($"</{this._tagName}>");
+                //sb.Append("</").Append(_tagName).Append(">");
+            }
+            else
+            {
                 sb.Append("/>");
+                Console.WriteLine(sb);
             }
 
-            return sb.ToString();
+            //Console.WriteLine(sb.ToString());
         }
 
-        public override string InnerHTML()
+        public void InnerHTML()
         {
-            StringBuilder sb = new StringBuilder();
-
             foreach (LightNode child in _children)
             {
-                sb.Append(child.OuterHTML());
+                child.OuterHTML();
             }
-
-            return sb.ToString();
         }
 
-        public override void AppendChild(LightNode child)
+        public LightNode Clone()
         {
-            _children.Add(child);
-        }
-
-        public void ReplaceChild(LightNode replacedItem, int index)
-        {
-            if (index < 0 || index >= _children.Count)
+            LightElementNode clonedNode = new LightElementNode(this._tagName, this._viewType, this._isDoubleTag, this._cssClasses);
+            foreach (LightNode child in this._children)
             {
-                throw new ArgumentOutOfRangeException(nameof(index));
+                clonedNode.AppendChild(child.Clone());
             }
+            return clonedNode;
+        }
 
-            _children[index] = replacedItem;
+        public void AppendChild(LightNode child)
+        {
+            this._children.Add(child);
         }
 
         public void RemoveChild(LightNode child)
         {
-            _children.Remove(child);
+            this._children.Remove(child);
         }
 
-        public void InsertBefore(LightNode insertedItem, LightNode existingItem)
+        public void ReplaceChild(LightNode oldChild, LightNode newChild)
         {
-            int index = _children.IndexOf(existingItem);
+            int index = _children.IndexOf(oldChild);
+            if (index != -1)
+            {
+                _children[index] = newChild;
+            }
+        }
 
-            _children.Insert(index, insertedItem);
+        public void InsertBefore(LightNode newChild, LightNode refChild)
+        {
+            int index = this._children.IndexOf(refChild);
+
+            if (index >= 0)
+            {
+                this._children.Insert(index, newChild);
+            }
         }
     }
 }

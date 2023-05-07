@@ -9,8 +9,6 @@ namespace Flyweight
 {
     internal class DocumentParser
     {
-        //private List<string> _text = new List<string>();
-
         public string[] _readFile(string src)
         {
             string content = "";

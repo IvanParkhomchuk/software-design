@@ -44,15 +44,12 @@ namespace Flyweight
                 Console.Write(sb);
                 this.InnerHTML();
                 Console.Write($"</{this._nodeType.tagName}>");
-                //sb.Append("</").Append(_tagName).Append(">");
             }
             else
             {
                 sb.Append("/>");
                 Console.WriteLine(sb);
             }
-
-            //Console.WriteLine(sb.ToString());
         }
 
         public void InnerHTML()

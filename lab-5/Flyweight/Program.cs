@@ -1,4 +1,5 @@
 ﻿using Flyweight;
+using System;
 
 DocumentParser documentParser = new DocumentParser();
 string[] lines = documentParser._readFile("https://www.gutenberg.org/cache/epub/1513/pg1513.txt");
